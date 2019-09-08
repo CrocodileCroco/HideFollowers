@@ -5,6 +5,6 @@ To install this, first install Violentmonkey (or Tampermonkey) and [Click this](
 
 Supported websites :
 
-*Twitter (not the new 2019 version, use goodtwitter to go back to the old version)
-*YouTube (new version)
-*Instagram
+-Twitter (not the new 2019 version, use goodtwitter to go back to the old version)
+-YouTube (new version)
+-Instagram
