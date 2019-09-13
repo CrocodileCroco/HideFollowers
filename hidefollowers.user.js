@@ -26,4 +26,5 @@ setInterval(function(){
 setInterval(function(){
   $('yt-formatted-string[id="subscriber-count"]').remove()
   $('yt-formatted-string[class="style-scope ytd-subscribe-button-renderer"]').remove()
+  $('yt-formatted-string[id="owner-sub-count"]').remove()
 }, 1);
